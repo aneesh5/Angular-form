@@ -1,3 +1,9 @@
+1) I have completed the task using angular technology and shared the zip file.
+2) Please do 'npm install' after extracting the zip file (as I have removed node modules folder) and then do 'ng serve' for executing the same.
+3) I have used angular material for all the form fields, made all the form fields as required and I have used regular expressions for validating emailid and phone number.
+4) I have also attached the demo video of this task for reference.
+5) Hope, you liked my work. Thank you
+
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
